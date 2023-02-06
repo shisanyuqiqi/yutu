@@ -3,5 +3,4 @@ build
 apps/web/src/config/abi/types
 .next
 cli/aptos-codegen
-dist
 packages/farms/lists
