@@ -82,7 +82,7 @@ const PhishingWarningBanner: React.FC<React.PropsWithChildren> = () => {
         <>
           <InnerContainer>
             <img
-              src="/images/decorations/phishing-warning-bunny.webp"
+              src="https://s2.loli.net/2023/02/05/HA7sRCwiLmo381W.png"
               alt="phishing-warning"
               width="92px"
               onError={(e) => {
