@@ -75,7 +75,7 @@ const TxnLink = styled(Link)`
 `
 
 const MenuConfig = [
-  { title: 'Bridge', href: '/' },
+  { title: 'Bridege', href: '/' },
   { title: 'Aptos', href: '/aptos' },
 ]
 

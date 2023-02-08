@@ -366,7 +366,7 @@ const LimitOrders = () => {
             </Box>
           </Flex>
         )}
-        <Flex flexDirection="column" alignItems="center">
+        <Flex flexDirection="column" alignItems="left">
           <StyledSwapContainer $isChartExpanded={false}>
             <StyledInputCurrencyWrapper>
               <AppBody>
